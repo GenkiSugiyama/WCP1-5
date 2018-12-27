@@ -4,3 +4,27 @@
   box-sizing: border-box;
   color: #6c6b6b;
 }
+.spring{
+	background-image: url(img/box1.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 200px
+}
+.summer{
+	background-image: url(img/box2.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 200px
+}
+.fall{
+	background-image: url(img/box3.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 200px
+}
+.winter{
+	background-image: url(img/box4.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 200px
+}
